@@ -1,2 +1,2 @@
 # CP07_BMWvsVolkswagen
-CP07_BMWvsVolkswagen - Predicción
+Caso Práctico 7 - BMW vs. Volkswagen - Predicción
